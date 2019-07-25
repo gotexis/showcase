@@ -1,15 +1,15 @@
 Demo projects by Exis Zhang
 =============================
 
-A collection of codes built written by Exis throughout the days.
+A collection of codes by Exis
 
 ### Structure
 
 * React
     * [React messages app](./react/pinx_message)
         * To run: `npm i && npm start`
-        * Note: this project was extracted from a full-stack one, therefore I am still trying to restructure API into 
-          hardcoded data for demo purpose.
+        * Note: this project was extracted from a full-stack one, therefore I am still converting API 
+        (WebSocket) into hardcoded data for demo purpose.
 
 ### Skills
 * Languages 
