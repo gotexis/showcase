@@ -25,6 +25,11 @@ function watchMessages(socket) {
 
 
 export default function* establishWSConSaga() {
+  // disable websocket for demo
+  // doSocket()
+}
+
+function* doSocket() {
   while (true) {
     // yield take(types.WEBSOCKET_START)   // establish socket on demand
     const socket = new ReconnectingWebSocket(socket_url) // your websocket server

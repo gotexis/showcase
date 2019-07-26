@@ -21,8 +21,8 @@ export default class UserItem extends React.Component {
     const user_timestamp = this.props.user.presence
     const delta = now - user_timestamp
     let status
-    console.log(delta)
-    console.log(this.props.user)
+    // console.log(delta)
+    // console.log(this.props.user)
     switch (delta) {
       case delta < 60 * 5: // online
         status = 'user_active'
@@ -49,7 +49,8 @@ export default class UserItem extends React.Component {
         li.user_sidebar_entry.narrow-filter(className=this.attr() onClick=this.activateThread)
             .selectable_sidebar_block
                 span.user-status-indicator
-                Link.user-presence-link(to=BASE_URL + "@" + u.id) #{u.name_chat}
+                // Link.user-presence-link(to=BASE_URL + "@" + u.id) #{u.name_chat}
+                Link.user-presence-link(to='#') #{u.name_chat}
                 span.count
                     span.value
             span.arrow

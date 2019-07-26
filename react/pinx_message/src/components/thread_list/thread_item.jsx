@@ -39,7 +39,7 @@ export default class ThreadListItem extends React.Component {
                         .subscription_block.selectable_sidebar_block
                             span#stream_sidebar_privacy_swatch_2.stream-privacy(style={color: this.props.thread.color})
                                 span.hashtag
-                            Link.stream-name(to=BASE_URL + props.thread.id) #{props.thread.name}
+                            a.stream-name(to=BASE_URL + props.thread.id) #{props.thread.name}
                             .count(style={display: this.unread() === 0 ? 'none' : 'block'})
                                 .value #{this.unread()}
                         span.arrow.stream-sidebar-arrow

@@ -54,7 +54,7 @@ export const SUCCESS            = "SUCCESS"
 export const FAILURE            = "FAILURE"
 
 // urls
-export const BASE_URL = "/landing/"
+export const BASE_URL = "/"
 
 // window globals
 export const trans = window.dictionary

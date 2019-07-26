@@ -1,7 +1,6 @@
 import React from "react";
 import UserItem from "./user_item"
 
-
 export default class UserList extends React.Component {
 
     // componentDidUpdate(prevProps) {
