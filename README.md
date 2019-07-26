@@ -1,20 +1,54 @@
-Demo projects by Exis Zhang
+Demo projects monorepo
 =============================
 
-A collection of codes by Exis
+A collection of codes by Exis Zhang. Constantly adding stuff...
 
-### Structure
+### Find me on
+* [StackOverflow](https://stackoverflow.com/users/10141817/exis-zhang)
+* [GitHub](https://github.com/gotexis)
+* [My React Site](https://gotexis.github.io)
 
-* React
-    * [React messages app](./react/pinx_message)
-        * To run: `npm i && npm start`
-        * Note: this project was extracted from a full-stack one, therefore I am still converting API 
-        (WebSocket) into hardcoded data for demo purpose.
-    * [Personal site](./react/gotexis.github.io)
-        * Please visit [https://gotexis.github.io](https://gotexis.github.io)
+### Projects for show
+
+#### Frontend
+
+##### Vue
+
+* [learn-it](./vue/learn-it)
+    * Live at [https://gotexis.github.io/learn-it](https://gotexis.github.io/learn-it)
+* [Melar-mobile-shop](./vue/melar-mobile)
+    * Live at [https://gotexis.github.io/melar](https://gotexis.github.io/melar)
+
+##### React
+
+* [Personal site](./react/gotexis.github.io)
+    * Live at [https://gotexis.github.io](https://gotexis.github.io)
+* [React messages app](./react/pinx_message)
+    * Clone and run `cd react/pinx_message && npm i && npm start`
+    * This project was extracted from a full-stack project, therefore bugs exist (WIP)
+
+##### React-native
+
+* [Batcher](./react-native/batcher)
+    * Clone of big Chinese Groupon-like mobile app
+    * Install dependencies `cd react-native/batcher && npm i`
+    * Clone and run `react-native run-ios`
+        * Must be on Mac environment
+    * run Android `react-native run-android`   
+        * Will automatically download and install Gradle.
+        * Need a running Android Simulator, use IntelliJ IDEA, or Android Studio
 
 
-### Skills
+
+#### Backend
+
+##### Django
+* [Pinx - Education SaaS](https://pinxed.com)
+    * Account is required (not open source). Email gotexis@gmail.com for login details
+
+
+
+### Other skills
 * Languages 
     * Python
     * JavaScript
@@ -46,5 +80,4 @@ A collection of codes by Exis
     * Illustrator 
 * API
     * GraphQL
-    * RESTful
-
+    * REST
