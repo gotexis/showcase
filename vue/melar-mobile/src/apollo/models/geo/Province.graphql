@@ -1,0 +1,110 @@
+query Provinces {
+    citySet {  
+    edges {
+        node {
+    areaSet {  
+    edges {
+        node {
+    addressSet {  
+    edges {
+        node {
+id
+    user {
+    cartSet {  
+    edges {
+        node {
+id
+    item {
+    orderitemSet {  
+    edges {
+        node {
+id
+    order {
+id
+last_modified
+item
+}
+quantity
+subtotal_currency
+subtotal
+        }
+    }
+}
+id
+    listing {
+    listingimageSet {  
+    edges {
+        node {
+id
+    image {
+id
+    shop {
+id
+    domain {
+id
+domain
+}
+name
+}
+image
+}
+is_cover
+        }
+    }
+}
+id
+    category {
+id
+name
+}
+name
+description
+is_active
+image
+}
+name
+description
+price_currency
+price
+}
+quantity
+        }
+    }
+}
+id
+password
+last_login
+is_superuser
+username
+first_name
+last_name
+email
+is_staff
+is_active
+date_joined
+name
+groups
+user_permissions
+item
+}
+street
+        }
+    }
+}
+id
+name
+        }
+    }
+}
+id
+    province {
+id
+name
+}
+name
+        }
+    }
+}
+id
+name
+}

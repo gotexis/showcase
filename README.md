@@ -17,7 +17,8 @@ A collection of codes by Exis Zhang. Constantly adding stuff...
 * [learn-it](./vue/learn-it)
     * Live at [https://gotexis.github.io/learn-it](https://gotexis.github.io/learn-it)
 * [Melar-mobile-shop](./vue/melar-mobile)
-    * Live at [https://gotexis.github.io/melar](https://gotexis.github.io/melar)
+    * Based on a Chinese tech shop 
+    * Live at [https://gotexis.github.io/melar-demo](https://gotexis.github.io/melar-demo)
 
 ##### React
 
@@ -39,13 +40,13 @@ A collection of codes by Exis Zhang. Constantly adding stuff...
         * Need a running Android Simulator, use IntelliJ IDEA, or Android Studio
 
 
-
 #### Backend
 
 ##### Django
 * [Pinx - Education SaaS](https://pinxed.com)
     * Account is required (not open source). Email gotexis@gmail.com for login details
-
+* [Another Edu Demo](https://edu.demo.pinxed.com)
+    * Account is required (not open source). Email gotexis@gmail.com for login details
 
 
 ### Other skills

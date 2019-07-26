@@ -1,0 +1,110 @@
+query Domains {
+    shopSet {
+        edges {
+            node {
+                userSet {
+                    edges {
+                        node {
+                            cartSet {
+                                edges {
+                                    node {
+                                        id
+                                        item {
+                                            orderitemSet {
+                                                edges {
+                                                    node {
+                                                        id
+                                                        order {
+                                                            id
+                                                            last_modified
+                                                            item
+                                                        }
+                                                        quantity
+                                                        subtotal_currency
+                                                        subtotal
+                                                    }
+                                                }
+                                            }
+                                            id
+                                            listing {
+                                                listingimageSet {
+                                                    edges {
+                                                        node {
+                                                            id
+                                                            image {
+                                                                id
+                                                                image
+                                                            }
+                                                            is_cover
+                                                        }
+                                                    }
+                                                }
+                                                id
+                                                category {
+                                                    id
+                                                    name
+                                                }
+                                                name
+                                                description
+                                                is_active
+                                                image
+                                            }
+                                            name
+                                            description
+                                            price_currency
+                                            price
+                                        }
+                                        quantity
+                                    }
+                                }
+                            }
+                            addressSet {
+                                edges {
+                                    node {
+                                        id
+                                        area {
+                                            id
+                                            city {
+                                                id
+                                                province {
+                                                    id
+                                                    name
+                                                }
+                                                name
+                                            }
+                                            name
+                                        }
+                                        street
+                                    }
+                                }
+                            }
+                            id
+                            password
+                            last_login
+                            is_superuser
+                            username
+                            first_name
+                            last_name
+                            email
+                            is_staff
+                            is_active
+                            date_joined
+                            name
+                            groups
+                            user_permissions
+                            item
+                        }
+                    }
+                }
+                id
+                domain {
+                    id
+                    domain
+                }
+                name
+            }
+        }
+    }
+    id
+    domain
+}

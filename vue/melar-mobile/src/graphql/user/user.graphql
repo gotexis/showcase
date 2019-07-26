@@ -1,0 +1,54 @@
+query currentUser{
+    currentUser {
+        id
+        username
+        name
+        referer1 {
+            username
+        }
+        referee1 {
+            edges {
+                node {
+                    username
+                }
+            }
+        }
+        # Cart
+        cartSet {
+            edges {
+                node {
+                    item {
+                        id
+                        name
+                        listing {
+                            id
+                            name
+                        }
+                        description
+                    }
+                    quantity
+                }
+            }
+        }
+        # Orders
+        orderSet {
+            edges {
+                node {
+                    id
+                    lastModified
+                    item {
+                        edges {
+                            node {
+                                name
+                                description
+                                listing {
+                                    name
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        }
+    }
+}

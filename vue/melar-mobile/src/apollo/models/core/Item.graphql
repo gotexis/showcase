@@ -1,0 +1,109 @@
+query Items {
+    cartSet {  
+    edges {
+        node {
+id
+    user {
+    orderSet {  
+    edges {
+        node {
+    orderitemSet {  
+    edges {
+        node {
+id
+    item {
+id
+    listing {
+    listingimageSet {  
+    edges {
+        node {
+id
+    image {
+id
+    shop {
+id
+    domain {
+id
+domain
+}
+name
+}
+image
+}
+is_cover
+        }
+    }
+}
+id
+    category {
+id
+name
+}
+name
+description
+is_active
+image
+}
+name
+description
+price_currency
+price
+}
+quantity
+subtotal_currency
+subtotal
+        }
+    }
+}
+id
+last_modified
+item
+        }
+    }
+}
+    addressSet {  
+    edges {
+        node {
+id
+    area {
+id
+    city {
+id
+    province {
+id
+name
+}
+name
+}
+name
+}
+street
+        }
+    }
+}
+id
+password
+last_login
+is_superuser
+username
+first_name
+last_name
+email
+is_staff
+is_active
+date_joined
+name
+groups
+user_permissions
+item
+}
+quantity
+        }
+    }
+}
+id
+name
+description
+price_currency
+price
+}

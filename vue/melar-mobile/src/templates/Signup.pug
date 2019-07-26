@@ -1,0 +1,40 @@
+// https://www.smoothterminal.com/articles/implement-a-vue-client-for-a-graphql-forum
+main.section
+ h1.top-title Signup
+ form(
+   @submit.prevent="signup"
+   class="pure-form pure-form-stacked"
+   method="POST"
+ )
+   fieldset.pure-1
+     input.pure-u-1(
+       id="name"
+       placeholder="Name"
+       type="text"
+       v-model="name"
+     )
+   fieldset.pure-1
+     input.pure-u-1(
+       id="email"
+       placeholder="Email"
+       type="email"
+       v-model="email"
+     )
+   fieldset.pure-1
+     input.pure-u-1(
+       id="password"
+       placeholder="Password"
+       type="password"
+       v-model="password"
+     )
+   fieldset.pure-1
+     input.pure-u-1(
+       id="username"
+       placeholder="Username"
+       type="text"
+       v-model="username"
+     )
+   fieldset.pure-1
+     button.pure-button.pure-input-1(
+       type="submit"
+     ) Sign up
