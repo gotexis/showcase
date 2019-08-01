@@ -30,7 +30,7 @@ A collection of codes by Exis Zhang. Constantly adding stuff...
 
 ##### React-native
 
-* [Batcher](./react-native/batcher)
+* [Batcher (Like groupon)](./react-native/batcher)
     * Clone of big Chinese Groupon-like mobile app
     * Install dependencies `cd react-native/batcher && npm i`
     * Clone and run `react-native run-ios`
@@ -42,11 +42,26 @@ A collection of codes by Exis Zhang. Constantly adding stuff...
 
 #### Backend
 
+##### Node
+* [MongoDB + REST](./node/mongo_rest)
+    * Account is required (not open source). Email gotexis@gmail.com for login details
+
+##### React-native
+
+* [Batcher](./react-native/batcher)
+    * Clone of big Chinese Groupon-like mobile app
+    * Install dependencies `cd react-native/batcher && npm i`
+    * Clone and run `react-native run-ios`
+        * Must be on Mac environment
+    * run Android `react-native run-android`   
+        * Will automatically download and install Gradle.
+        * Need a running Android Simulator, use IntelliJ IDEA, or Android Studio
+        
 ##### Django
 * [Pinx - Education SaaS](https://pinxed.com)
-    * Account is required (not open source). Email gotexis@gmail.com for login details
-* [Another Edu Demo](https://edu.demo.pinxed.com)
-    * Account is required (not open source). Email gotexis@gmail.com for login details
+    * Login required (not open source). Email [gotexis@gmail.com](mailto:gotexis@gmail.com) for login details
+* [School management](https://edu.demo.pinxed.com)
+    * Login required (not open source). Email [gotexis@gmail.com](mailto:gotexis@gmail.com) for login details
 
 
 ### Other skills
