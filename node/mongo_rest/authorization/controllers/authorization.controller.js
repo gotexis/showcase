@@ -1,7 +1,10 @@
-const jwtSecret = require('../../common/config/env.config.js').jwt_secret,
-    jwt = require('jsonwebtoken');
-const crypto = require('crypto');
-const uuid = require('node-uuid');
+import {jwt_secret as jwtSecret} from "../../common/config/env.config.js";
+
+import jwt from "jsonwebtoken";
+
+import crypto from "crypto";
+
+import uuid from "node-uuid";
 
 exports.login = (req, res) => {
     try {

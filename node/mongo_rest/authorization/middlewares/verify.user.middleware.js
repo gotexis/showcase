@@ -1,7 +1,8 @@
-const UserModel = require('../../users/models/users.model');
-const crypto = require('crypto');
+import crypto from "crypto";
 
-exports.hasAuthValidFields = (req, res, next) => {
+const UserModel = require('../../users/models/users.model');
+
+export function hasAuthValidFields(req, res, next) {
     let errors = [];
 
     if (req.body) {
@@ -20,9 +21,9 @@ exports.hasAuthValidFields = (req, res, next) => {
     } else {
         return res.status(400).send({errors: 'Missing email and password fields'});
     }
-};
+}
 
-exports.isPasswordAndUserMatch = (req, res, next) => {
+export function isPasswordAndUserMatch(req, res, next) {
     UserModel.findByEmail(req.body.email)
         .then((user)=>{
             if(!user[0]){
@@ -45,4 +46,4 @@ exports.isPasswordAndUserMatch = (req, res, next) => {
                 }
             }
         });
-};
+}
