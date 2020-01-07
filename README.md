@@ -3,18 +3,6 @@ Demo projects monorepo
 
 Codes by Exis Zhang
 
-Please don't send me any tests to do - I am too busy to do any,
-if you don't like what I've got here then please look sideways.
-
-**No tests**
-
-**No tests**
-
-**No tests**
-
-**No tests**
-
-
 ## Find me on
 * [StackOverflow](https://stackoverflow.com/users/10141817/exis-zhang)
 * [GitHub](https://github.com/gotexis)
@@ -22,17 +10,11 @@ if you don't like what I've got here then please look sideways.
 
 ## Projects for show
 
-### Some tests I've done
-
-(Why I'm done with tests)
-
+### Some tests
 * [a python toy-robot test](https://github.com/gotexis/toy-robot)
 * [a python backend test](https://github.com/gotexis/hivery)
 * [a vue test](https://github.com/gotexis/nnnco)
 * [a react/node test](https://github.com/gotexis/sypht)
-
-**Again, No tests**
-
 
 ### Frontend
 #### Vue
