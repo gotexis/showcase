@@ -1,4 +1,4 @@
-Demo projects monorepo
+Projects
 =============================
 
 Codes by Exis Zhang
@@ -19,13 +19,16 @@ Codes by Exis Zhang
 ### Frontend
 #### Vue
 
-* [learn-it](./vue/learn-it)
-    * Live at [https://gotexis.github.io/learn-it](https://gotexis.github.io/learn-it)
+* NRL Sideline
+    * Developed both frontend/backend during employment at StatEdge
+    * Live at [https://www.playrugbyleague.com/register](https://www.playrugbyleague.com/register)
 * [Melar-mobile-shop](./vue/melar-mobile)
     * Adapted based on a Chinese hardware online store
-    * Live at [https://gotexis.github.io/melar-demo](https://gotexis.github.io/melar-demo)
+    * Demo at [https://gotexis.github.io/melar-demo](https://gotexis.github.io/melar-demo)
+    * note: in Chinese language only
 * GoldTen Forex
     * Live at [https://goldten.com.au](https://goldten.com.au)
+* [learn-it](./vue/learn-it)
 
 #### React
 
@@ -33,7 +36,7 @@ Codes by Exis Zhang
     * Live at [https://gotexis.github.io](https://gotexis.github.io)
 * [React messages app](./react/pinx_message)
     * Clone and run `cd react/pinx_message && npm i && npm start`
-    * Decoupled from a full-stack project (so may break)
+    * Decoupled from a full-stack project
 
 #### React-native
 
