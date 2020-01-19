@@ -1,23 +1,13 @@
 Projects
 =============================
-
 Codes by Exis Zhang
 
-## Find me on
 * [StackOverflow](https://stackoverflow.com/users/10141817/exis-zhang)
 * [GitHub](https://github.com/gotexis)
 * [LinkedIn](https://www.linkedin.com/in/zheng-zhang-5a944b85/)
 
-## Projects for show
-
-### Some tests
-* [a python toy-robot test](https://github.com/gotexis/toy-robot)
-* [a python backend test](https://github.com/gotexis/hivery)
-* [a vue test](https://github.com/gotexis/nnnco)
-* [a react/node test](https://github.com/gotexis/sypht)
-
-### Frontend
-#### Vue
+## Frontend
+### Vue
 
 * NRL Sideline
     * Developed both frontend/backend during employment at StatEdge
@@ -30,7 +20,7 @@ Codes by Exis Zhang
     * Live at [https://goldten.com.au](https://goldten.com.au)
 * [learn-it](./vue/learn-it)
 
-#### React
+### React
 
 * [Personal site](./react/gotexis.github.io)
     * Live at [https://gotexis.github.io](https://gotexis.github.io)
@@ -38,10 +28,10 @@ Codes by Exis Zhang
     * Clone and run `cd react/pinx_message && npm i && npm start`
     * Decoupled from a full-stack project
 
-#### React-native
+### React-native
 
-* [Batcher (Like groupon)](./react-native/batcher)
-    * Clone of big Chinese Groupon-like mobile app
+* [Batcher](./react-native/batcher)
+    * A groupon-like demo
     * Install dependencies `cd react-native/batcher && npm i`
     * Clone and run `react-native run-ios`
         * Must be on Mac environment
@@ -49,61 +39,46 @@ Codes by Exis Zhang
         * Will automatically download and install Gradle.
         * Need a running Android Simulator, use IntelliJ IDEA, or Android Studio
 
+## Backend
 
-### Backend
-
-#### Node
+### Node
 * [MongoDB + REST](./node/mongo_rest)
     * Account is required (not open source). Email gotexis@gmail.com for login details
 
-#### React-native
-
-* [Batcher](./react-native/batcher)
-    * Clone of big Chinese Groupon-like mobile app
-    * Install dependencies `cd react-native/batcher && npm i`
-    * Clone and run `react-native run-ios`
-        * Must be on Mac environment
-    * run Android `react-native run-android`   
-        * Will automatically download and install Gradle.
-        * Need a running Android Simulator, use IntelliJ IDEA, or Android Studio
-        
-#### Django
+### Django
 * [Pinx - Education SaaS](https://pinxed.com)
-    * Login required (not open source). Email [gotexis@gmail.com](mailto:gotexis@gmail.com) for login details
-* [School management](https://edu.demo.pinxed.com)
-    * Login required (not open source). Email [gotexis@gmail.com](mailto:gotexis@gmail.com) for login details
+    * Login only, email [gotexis@gmail.com](mailto:gotexis@gmail.com) for auth details
 
+## Code tests
+* [a python toy-robot test](https://github.com/gotexis/toy-robot)
+* [a python backend test](https://github.com/gotexis/hivery)
+* [a vue test](https://github.com/gotexis/nnnco)
+* [a react/node test](https://github.com/gotexis/sypht)
 
-## Other skills
+## Skills
 * Languages 
     * Python
-    * JavaScript
-    * TypeScript
+    * JavaScript, TypeScript
 * Frontend
     * React
-    * Redux
     * Vue.js
-    * jQuery
 * Backend
     * Node
     * Express
     * Prisma
     * Apollo-server
-    * Django
+    * Django, django-rest-framework
+    * GraphQL
 * DevOps 
     * Docker
     * AWS
-    * Ubuntu
 * Database 
     * PostgreSQL
     * MongoDB
-    * TypeORM
+    * TypeORM, Sequalize
 * UI/UX
     * HTML
     * CSS
     * SASS
     * Pug
-    * Illustrator 
-* API
-    * GraphQL
-    * REST
+    * Illustrator
