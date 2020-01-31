@@ -6,6 +6,21 @@ Codes by Exis Zhang
 * [GitHub](https://github.com/gotexis)
 * [LinkedIn](https://www.linkedin.com/in/zheng-zhang-5a944b85/)
 
+## Code tests
+- Comes with requirements
+- ranked with level of tryhard-ness
+
+* [a (laborious) react test](https://github.com/gotexis/nextpractice)
+
+* [a vue test](https://github.com/gotexis/blinker)
+* [another vue test](https://github.com/gotexis/nnnco)
+* [yet another vue test](https://github.com/gotexis/ezypay)
+
+* [another react test](https://github.com/gotexis/sypht)
+
+* [a python toy-robot game test](https://github.com/gotexis/toy-robot)
+* [a python backend test](https://github.com/gotexis/hivery)
+
 ## Frontend
 ### Vue
 
@@ -47,15 +62,6 @@ Codes by Exis Zhang
 * [MongoDB + REST](./node/mongo_rest)
     * Account is required (not open source). Email gotexis@gmail.com for login details
 
-### Django
-* [Pinx - Education SaaS](https://pinxed.com)
-    * Login only, email [gotexis@gmail.com](mailto:gotexis@gmail.com) for auth details
-
-## Code tests
-* [a python toy-robot test](https://github.com/gotexis/toy-robot)
-* [a python backend test](https://github.com/gotexis/hivery)
-* [a vue test](https://github.com/gotexis/nnnco)
-* [a react/node test](https://github.com/gotexis/sypht)
 
 ## Skills
 * Languages 
