@@ -38,7 +38,7 @@ Codes by Exis Zhang
 ### React
 
 * [Barefoot Timber](./react/gotexis.github.io)
-    * Live at [https://barefoot.pinxed.com](https://barefoot.pinxed.com)
+    * Live at [https://barefoottimber.com.au](https://barefoottimber.com.au)
 * [Personal site](./react/gotexis.github.io)
     * Live at [https://gotexis.github.io](https://gotexis.github.io)
 * [React messages app](./react/pinx_message)
