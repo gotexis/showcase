@@ -73,7 +73,6 @@ Comes with requirements
 
 ### Node
 * [MongoDB + REST](./node/mongo_rest)
-    * Account is required (not open source). Email gotexis@gmail.com for login details
 
 
 ## Skills
