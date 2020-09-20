@@ -8,18 +8,26 @@ Codes by Exis Zhang
 
 ## Code tests
 - Comes with requirements
-- ranked with level of tryhard-ness
 
-* [a (laborious) react test](https://github.com/gotexis/nextpractice)
+### React
 
-* [a vue test](https://github.com/gotexis/blinker)
-* [another vue test](https://github.com/gotexis/nnnco)
-* [yet another vue test](https://github.com/gotexis/ezypay)
+* [react test 1](https://github.com/gotexis/nextpractice)
+* [react test 2](https://github.com/gotexis/sypht)
 
-* [another react test](https://github.com/gotexis/sypht)
+### Vue
+
+* [vue test 1](https://github.com/gotexis/blinker)
+* [vue test 2](https://github.com/gotexis/nnnco)
+* [vue test 3](https://github.com/gotexis/ezypay)
+
+### Python
 
 * [a python toy-robot game test](https://github.com/gotexis/toy-robot)
 * [a python backend test](https://github.com/gotexis/hivery)
+
+##  UI/UX (**New skills**)
+* [Design - rn-expo project - Box-V5](https://www.figma.com/file/klrTPhLuzkkvufg5jZMOgf/Box-V5)
+* [Design - rn-expo project - Box-V1](https://www.figma.com/file/TZqO7Lr9OpLSJ6sq0DtQeA/Box-V1)
 
 ## Frontend
 ### Vue
@@ -47,6 +55,10 @@ Codes by Exis Zhang
 
 ### React-native
 
+* An Expo project
+    *  Figma design: [https://www.figma.com/file/klrTPhLuzkkvufg5jZMOgf/Box-V5](https://www.figma.com/file/klrTPhLuzkkvufg5jZMOgf/Box-V5)
+    *  Expo project: [https://expo.io/@exis/box](https://expo.io/@exis/box)
+
 * [Batcher](./react-native/batcher)
     * A groupon-like demo
     * Install dependencies `cd react-native/batcher && npm i`
@@ -55,6 +67,7 @@ Codes by Exis Zhang
     * run Android `react-native run-android`   
         * Will automatically download and install Gradle.
         * Need a running Android Simulator, use IntelliJ IDEA, or Android Studio
+
 
 ## Backend
 
@@ -80,13 +93,14 @@ Codes by Exis Zhang
 * DevOps 
     * Docker
     * AWS
+    * Heroku
 * Database 
     * PostgreSQL
-    * MongoDB
+    * MongoDB, Mongoose
     * TypeORM, Sequalize
 * UI/UX
     * HTML
-    * CSS
-    * SASS
-    * Pug
+    * CSS / SCSS
     * Illustrator
+    * Figma
+    * Adobe XD
