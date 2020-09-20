@@ -7,7 +7,7 @@ Codes by Exis Zhang
 * [LinkedIn](https://www.linkedin.com/in/zheng-zhang-5a944b85/)
 
 ## Code tests
-- Comes with requirements
+Comes with requirements
 
 ### React
 
