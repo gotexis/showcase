@@ -9,6 +9,9 @@ Codes by Exis Zhang
 ## Code tests
 Comes with requirements
 
+### Algorithms
+* [python - floodfill](https://github.com/gotexis/abyss-test)
+
 ### React
 
 * [react test 1](https://github.com/gotexis/nextpractice)
