@@ -10,18 +10,18 @@ Codes by Exis Zhang
 Comes with requirements
 
 ### Algorithms
-* [python - floodfill](https://github.com/gotexis/abyss-test)
+* [python - floodfill](https://github.com/gotexis/test-ssyba)
 
 ### React
 
-* [react test 1](https://github.com/gotexis/nextpractice)
-* [react test 2](https://github.com/gotexis/sypht)
+* [react test 1](https://github.com/gotexis/test-nextpractice)
+* [react test 2](https://github.com/gotexis/test-sypht)
 
 ### Vue
 
-* [vue test 1](https://github.com/gotexis/blinker)
-* [vue test 2](https://github.com/gotexis/nnnco)
-* [vue test 3](https://github.com/gotexis/ezypay)
+* [vue test 1](https://github.com/gotexis/test-blinker)
+* [vue test 2](https://github.com/gotexis/test-nnnco)
+* [vue test 3](https://github.com/gotexis/test-ezypay)
 
 ### Python
 
