@@ -12,6 +12,9 @@ Comes with requirements
 ### Algorithms
 * [python - floodfill](https://github.com/gotexis/test-ssyba)
 
+### Regex
+* [Regex - OCR / Mongodb / Node.js](https://github.com/gotexis/test-pmg)
+
 ### React
 
 * [react test 1](https://github.com/gotexis/test-nextpractice)
