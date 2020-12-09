@@ -19,6 +19,7 @@ Comes with requirements
 
 * [react test 1](https://github.com/gotexis/test-nextpractice)
 * [react test 2](https://github.com/gotexis/test-sypht)
+* [react test 3 (A ToDo App with react, redux, jest, AntDesign)](https://github.com/gotexis/test-pwc)
 
 ### Vue
 
