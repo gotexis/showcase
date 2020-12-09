@@ -86,6 +86,7 @@ Comes with requirements
 * Languages 
     * Python
     * JavaScript, TypeScript
+    * Mandarin Chinese
 * Frontend
     * React
     * Vue.js
