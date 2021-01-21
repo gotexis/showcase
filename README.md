@@ -15,6 +15,9 @@ Comes with requirements
 ### Regex
 * [Regex - OCR / Mongodb / Node.js](https://github.com/gotexis/test-pmg)
 
+### Full-stack
+* [react/express/graphql](https://github.com/gotexis/playt)
+
 ### React
 
 * [react test 1](https://github.com/gotexis/test-nextpractice)
