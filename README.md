@@ -38,7 +38,7 @@ Comes with requirements
 ### Python
 
 * [a python toy-robot game test](https://github.com/gotexis/toy-robot)
-* [a python backend test](https://github.com/gotexis/hivery)
+* [a python backend test](https://github.com/gotexis/test-hivery)
 
 ##  UI/UX (**New skills**)
 * [Design - rn-expo project - Box-V5](https://www.figma.com/file/klrTPhLuzkkvufg5jZMOgf/Box-V5)
