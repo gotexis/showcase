@@ -4,7 +4,7 @@ Codes by Exis Zhang
 
 * [StackOverflow](https://stackoverflow.com/users/10141817/exis-zhang)
 * [GitHub](https://github.com/gotexis)
-* [LinkedIn](https://www.linkedin.com/in/zheng-zhang-5a944b85/)
+* [LinkedIn](https://www.linkedin.com/in/exis-zhang/)
 
 ## Code tests
 Comes with requirements
