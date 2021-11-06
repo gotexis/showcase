@@ -11,6 +11,7 @@ Comes with requirements
 
 ### Full-stack
 * [react/express/graphql test](https://github.com/gotexis/playt)
+* [Responsive frontend / REST / Docker test](https://github.com/gotexis/challenge-whitech)
 * [socket / WebRTC / Testing test](https://github.com/gotexis/challenge-cloudwave)
 
 ### React
