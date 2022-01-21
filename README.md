@@ -15,10 +15,10 @@ Comes with requirements
 * [socket / WebRTC / JEST test](https://github.com/gotexis/challenge-cloudwave)
 
 ### React
-
 * [react test 1](https://github.com/gotexis/test-nextpractice)
 * [react test 2](https://github.com/gotexis/test-sypht)
 * [react test 3 (A ToDo App with react, redux, jest, AntDesign)](https://github.com/gotexis/test-pwc)
+* [react test 4 / algorithms](https://github.com/gotexis/challenge-fx-calculator)
 
 ### Node / Express
 
