@@ -13,6 +13,7 @@ Comes with requirements
 * [react/express/graphql test](https://github.com/gotexis/playt)
 * [Responsive frontend / REST / Docker test](https://github.com/gotexis/challenge-whitech)
 * [socket / WebRTC / JEST test](https://github.com/gotexis/challenge-cloudwave)
+* [react, express, react-hook-form, yup, typeorm](https://github.com/gotexis/challenge-driva)
 
 ### React
 * [react test 1](https://github.com/gotexis/test-nextpractice)
