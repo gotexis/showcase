@@ -51,10 +51,6 @@ Comes with requirements
 * GoldTen Forex
     * Live at [https://goldten.com.au](https://goldten.com.au)
 
-## Backend
-
-### Node
-* [MongoDB + REST](./node/mongo_rest)
 
 ## Skills
 * Languages 
