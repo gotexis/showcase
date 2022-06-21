@@ -10,13 +10,13 @@ Codes by Exis Zhang
 Comes with requirements
 
 ### Full-stack
-* [react/express/graphql test](https://github.com/gotexis/playt)
+* [react/express/graphql test](https://github.com/gotexis/challenge-playt)
 * [Responsive frontend / REST / Docker test](https://github.com/gotexis/challenge-whitech)
 * [socket / WebRTC / JEST test](https://github.com/gotexis/challenge-cloudwave)
 * [react, express, react-hook-form, yup, typeorm](https://github.com/gotexis/challenge-driva)
 
 ### React
-* [react test 1](https://github.com/gotexis/test-nextpractice)
+* [react test 1](https://github.com/gotexis/challenge-nextpractice)
 * [react test 2](https://github.com/gotexis/test-sypht)
 * [react test 3 (A ToDo App with react, redux, jest, AntDesign)](https://github.com/gotexis/test-pwc)
 * [react test 4 / algorithms](https://github.com/gotexis/challenge-fx-calculator)
