@@ -31,6 +31,10 @@ Comes with requirements
 ### Regex
 * [Regex - OCR / Mongodb / Node.js](https://github.com/gotexis/test-pmg)
 
+### Bad code refactoring
+* [Tic Tac Toe Game](https://github.com/gotexis/test-xttt)
+
+
 ### Vue
 
 * [vue test 1](https://github.com/gotexis/test-blinker)
