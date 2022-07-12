@@ -16,10 +16,12 @@ Comes with requirements
 * [react, express, react-hook-form, yup, typeorm](https://github.com/gotexis/challenge-driva)
 
 ### React
+* [react test 0: CSS / Pulls / Jest](https://github.com/gotexis/challenge-qantas-insurance/pulls)
 * [react test 1](https://github.com/gotexis/challenge-nextpractice)
 * [react test 2](https://github.com/gotexis/test-sypht)
 * [react test 3 (A ToDo App with react, redux, jest, AntDesign)](https://github.com/gotexis/test-pwc)
 * [react test 4 / algorithms](https://github.com/gotexis/challenge-fx-calculator)
+
 
 ### Node / Express
 
