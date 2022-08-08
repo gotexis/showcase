@@ -6,6 +6,10 @@ Codes by Exis Zhang
 * [GitHub](https://github.com/gotexis)
 * [LinkedIn](https://www.linkedin.com/in/exis-zhang/)
 
+## Past works suitable for show
+* [Nine Personalisation playground https://sso-demo.nine.com.au/](https://sso-demo.nine.com.au/)
+* [NRL Sideline https://www.playrugbyleague.com/register](https://www.playrugbyleague.com/register)
+
 ## Code tests
 Comes with requirements
 
@@ -47,16 +51,6 @@ Comes with requirements
 
 * [a python toy-robot game test](https://github.com/gotexis/toy-robot)
 * [a python backend test](https://github.com/gotexis/test-hivery)
-
-## Frontend
-### Vue
-
-* NRL Sideline
-    * Developed both frontend/backend during employment at StatEdge
-    * Live at [https://www.playrugbyleague.com/register](https://www.playrugbyleague.com/register)
-* GoldTen Forex
-    * Live at [https://goldten.com.au](https://goldten.com.au)
-
 
 ## Skills
 * Languages 
